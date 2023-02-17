@@ -1,6 +1,5 @@
 # Algorithm-for-Intelligent-systems-and-robotics
 
- 
  1. Time Domain and frequency Domain representation using Python.
  2. Pendulum Simulation using Python: example of a system.
  3. 8 queens problem using Python.
